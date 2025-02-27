@@ -3,7 +3,7 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg7 from "../assets/img/project-img7.jpg";
-import projImg5 from "../assets/img/project-img5.png";
+import projImg5 from "../assets/img/project-img5.jpg";
 import projImg6 from "../assets/img/project-img6.jpeg";
 import projImg8 from "../assets/img/project-img8.png";
 import projImg9 from "../assets/img/project-img9.png";
@@ -20,10 +20,10 @@ export const Projects = () => {
             url:"https://github.com/Elias0305Ha/Marvel-Dashboard"
             },
             {
-            title: "FlashCards",
+            title: "Application Tracker",
             description: "web Development",
             imgUrl: projImg5,
-            url:"https://github.com/Elias0305Ha/flashcards"
+            url:"https://github.com/Elias0305Ha/Job Application Tracker"
             },
             {
               title: "Music Chat App",
